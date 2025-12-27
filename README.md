@@ -14,4 +14,4 @@ Output
 ```
 
 _© 2022 XYZ, Inc._
-This line is added to fix a typo issue.
+This line is added to fix a typo issues.
